@@ -4,4 +4,4 @@ A simple typing test program that loads a paragraph onto the screen and calculat
 
 Created the interface using HTML/CSS and functions through JavaScript
 
-[Use the type tester here](type-tester.infinityfreeapp.com).
+[Use the type tester here](http://type-tester.infinityfreeapp.com).
